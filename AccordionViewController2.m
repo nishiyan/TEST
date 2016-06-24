@@ -14,6 +14,7 @@ static int forTouchCount3 = 0;
 
 static NSString *CellIdentifier = @"Cell";
 
+static NSString *name = @"nishiyan";
 
 @interface AccordionViewController2 ()<UITableViewDelegate, UITableViewDataSource>{
     NSMutableArray *topItems;
